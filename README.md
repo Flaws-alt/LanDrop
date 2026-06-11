@@ -15,14 +15,16 @@
 ## 系统要求
 
 - Windows 10 / 11 (x64)
-- .NET 8.0 Desktop Runtime（若使用框架依赖版）
+- [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)（运行必需）
 - 两台及以上位于同一局域网内的电脑
 
 ## 快速开始
 
 ### 下载运行
 
-从 [Releases](https://github.com/Flaws-alt/LanDrop/releases) 页面下载最新的 `LanDrop.exe`，双击即可运行。
+1. 安装 [.NET 8.0 Desktop Runtime](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)
+2. 从 [Releases](https://github.com/Flaws-alt/LanDrop/releases) 下载最新的 `LanDrop.exe`
+3. 双击运行即可
 
 ### 开发构建
 
