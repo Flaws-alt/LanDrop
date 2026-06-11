@@ -4,6 +4,7 @@ using Xunit;
 
 namespace LanDrop.Tests.Services;
 
+[Collection("UsesNetworkPorts")]
 public class DiscoveryServiceTests : IDisposable
 {
     private DiscoveryService? _service;
