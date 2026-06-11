@@ -4,5 +4,6 @@
              xmlns:local="clr-namespace:LanDrop"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
+        <local:ZeroToVisibleConverter x:Key="ZeroToVisibleConverter"/>
     </Application.Resources>
 </Application>
